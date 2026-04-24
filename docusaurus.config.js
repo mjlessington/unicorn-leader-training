@@ -11,8 +11,11 @@ const config = {
     v4: true,
   },
 
-  url: 'https://your-docusaurus-site.example.com',
-  baseUrl: '/',
+  url: 'https://mjlessington.github.io',
+  baseUrl: '/unicorn-leader-training/',
+
+  organizationName: 'mjlessington',
+  projectName: 'unicorn-leader-training',
 
   onBrokenLinks: 'throw',
 
