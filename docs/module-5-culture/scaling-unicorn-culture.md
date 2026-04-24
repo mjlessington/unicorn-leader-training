@@ -93,7 +93,7 @@ Track your cultural health with these metrics:
 | Upward Feedback | # of constructive challenges to leadership | Increasing trend | Monthly |
 | Brave Conversations | Self-reported avoided conversations | Decreasing trend | Quarterly |
 
-:::tip The Leading Indicator
+:::tip[The Leading Indicator]
 The single most predictive metric for cultural health is **how quickly bad news travels upward.** In healthy cultures, problems surface early because people trust that raising issues is safe. In unhealthy cultures, problems surface late because people fear the consequences of delivering bad news. Track time-to-escalation as your leading indicator.
 :::
 

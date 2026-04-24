@@ -74,7 +74,7 @@ Examples for IT leaders:
 
 - **Strong in "Goes the Extra Mile"** → You deliver beyond expectations. But this can become a form of numbing through overwork, and you may resent others who don't match your effort.
 
-:::tip Vanderbloemen + Brown Integration
+:::tip[Vanderbloemen + Brown Integration]
 Vanderbloemen identifies the habits. Brown identifies the emotional patterns that sustain or undermine those habits. Self-awareness means understanding both: "I'm strong in X, AND here's the emotional pattern that protects and sometimes sabotages that strength."
 :::
 

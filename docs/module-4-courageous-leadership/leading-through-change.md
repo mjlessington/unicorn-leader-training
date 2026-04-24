@@ -94,7 +94,7 @@ Brown recommends a regular cadence of vulnerable communication during change:
 - **Bi-weekly:** What I got wrong, what I've learned, what's changing in the plan
 - **Monthly:** How I'm experiencing this change personally (modeling vulnerability)
 
-:::tip The Anti-Pattern
+:::tip[The Anti-Pattern]
 The most common IT leadership anti-pattern during change is **over-communicating facts and under-communicating feelings.** Your team doesn't just need the migration timeline. They need to know that you understand this is hard, that their concerns are valid, and that you're committed to supporting them through it.
 :::
 

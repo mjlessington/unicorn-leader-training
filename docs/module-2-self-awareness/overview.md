@@ -28,7 +28,7 @@ Both Vanderbloemen and Brown place self-awareness at the center of their framewo
 
 For IT leaders, self-awareness solves a specific problem: **the gap between the leader you think you are and the leader your team experiences.**
 
-:::caution The Blind Spot Problem
+:::caution[The Blind Spot Problem]
 Research consistently shows that leaders overestimate their self-awareness. 95% of people believe they are self-aware, but only 10-15% actually are (Eurich, 2018). IT leaders are particularly susceptible because technical competence creates a halo effect — "I'm good at my job, so I must be good at leading."
 :::
 

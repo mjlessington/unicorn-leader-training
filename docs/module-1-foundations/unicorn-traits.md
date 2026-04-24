@@ -22,7 +22,7 @@ Each of Vanderbloemen's 12 habits takes on specific meaning in the technology le
 
 **Brown's connection:** Driving to the basket requires vulnerability — you might be wrong, you might overstep, you might fail publicly. Leaders who armor up against these risks also armor up against initiative.
 
-:::info IT Leader Scenario
+:::info[IT Leader Scenario]
 Your company's legacy ERP system is creating data quality issues that ripple into three downstream systems. No one owns the problem because it crosses team boundaries. A unicorn IT leader doesn't wait for a directive — they draft a proposal, assemble a cross-functional working group, and present a remediation path to their peers.
 :::
 

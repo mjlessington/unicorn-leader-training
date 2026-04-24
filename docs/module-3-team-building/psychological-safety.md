@@ -89,7 +89,7 @@ Use these seven statements (Edmondson's scale) as a team pulse check. Have each 
 
 **Scoring:** Reverse-score items 1, 3, and 5. Average all seven. Above 4.0 = strong safety. Below 3.0 = urgent attention needed.
 
-:::warning Common IT Anti-Patterns
+:::warning[Common IT Anti-Patterns]
 Watch for these psychological safety destroyers common in technology organizations:
 - **The "obvious" dismissal:** "That should be obvious" or "As everyone knows..." shuts down learner safety
 - **The hero culture:** Rewarding firefighting over prevention penalizes proactive behavior

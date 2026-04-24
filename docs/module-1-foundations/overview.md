@@ -62,7 +62,7 @@ These habits determine how you convert intention into impact:
 - **Makes Others Feel Special** — Treats every person with genuine care and attention.
 - **Builds Bridges** — Creates connections between people, ideas, and organizations that others don't see.
 
-:::tip Key Insight
+:::tip[Key Insight]
 Vanderbloemen's critical finding is that these habits are **learnable**. They are not personality traits or genetic gifts. They are practiced behaviors that anyone can develop with intention and effort.
 :::
 

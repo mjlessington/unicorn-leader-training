@@ -15,7 +15,7 @@ Write a brief narrative (1-2 paragraphs) answering these questions:
 2. **Which of the 12 unicorn traits did they demonstrate most strongly?**
 3. **How did they handle vulnerability?** Did they armor up or show up?
 
-:::tip For Group Settings
+:::tip[For Group Settings]
 Share your story with a partner. Listen for patterns: which traits come up most frequently? Which are conspicuously absent? What does this tell us about what IT professionals value in leaders versus what they typically receive?
 :::
 

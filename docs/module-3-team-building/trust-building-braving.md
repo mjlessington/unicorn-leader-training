@@ -73,7 +73,7 @@ Brown's BRAVING inventory breaks trust into seven specific, assessable, developa
 
 **Leader action:** Before sharing any information, ask: "Was this shared with me in confidence? Do I have permission to share it? Is sharing it necessary, or am I seeking social currency?"
 
-:::caution The Vault Trap
+:::caution[The Vault Trap]
 Many IT leaders violate the vault in a specific way: they share information about one team member with another to "help" them understand each other. "Sarah is going through a tough time, so go easy on her." This feels compassionate but violates Sarah's trust. Instead: "Sarah might need some extra support right now. I'll let her share details if she chooses to."
 :::
 

@@ -67,7 +67,7 @@ The ability to inspire, influence, develop others, and manage conflict effective
 | Owns the Outcome | Self-flagellating or martyr complex | Takes responsibility with self-compassion |
 | Makes Others Feel Special | Performative, insincere | Genuinely attuned to individual needs |
 
-:::info Brown's Perspective
+:::info[Brown's Perspective]
 Brown argues that empathy is not a trait — it's a skill with four specific attributes:
 1. **Perspective-taking:** Seeing the world as others see it
 2. **Staying out of judgment:** Not easy for analytically-trained IT minds
