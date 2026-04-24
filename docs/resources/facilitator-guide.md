@@ -9,7 +9,7 @@ title: "Facilitator Guide"
 
 ## Overview
 
-This guide provides everything you need to facilitate *The Unicorn Leader* training for groups of 8-20 IT leaders. The training can be delivered in three formats:
+This guide provides everything you need to facilitate *The Daring Unicorn* training for groups of 8-20 IT leaders. The training can be delivered in three formats:
 
 | Format | Duration | Best For |
 |--------|----------|----------|

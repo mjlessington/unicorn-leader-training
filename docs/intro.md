@@ -1,10 +1,10 @@
 ---
 sidebar_position: 1
-title: Welcome to The Unicorn Leader
+title: Welcome to The Daring Unicorn
 slug: /intro
 ---
 
-# The Unicorn Leader: A Comprehensive Leadership Training for IT Leaders
+# The Daring Unicorn: Cultivating Courageous and Exceptional Leadership in IT
 
 ## Combining *Be The Unicorn* by William Vanderbloemen & *Dare To Lead* by Brene Brown
 
@@ -24,7 +24,7 @@ Together, these frameworks create a complete model: **Vanderbloemen tells you wh
 
 ## Who This Training Is For
 
-- **CIOs, CTOs, and VPs of Technology** looking to evolve from operational management to transformational leadership
+- **IT Senior Leaders** looking to evolve from operational management to transformational leadership
 - **IT Directors and Senior Managers** building and scaling high-performing teams
 - **Aspiring IT Leaders** preparing for their first leadership role
 - **HR and L&D Partners** supporting IT leadership development programs

@@ -63,6 +63,11 @@ export default function Home() {
       title="Home"
       description="Leadership training for IT leaders combining Be The Unicorn and Dare To Lead">
       <header className="training-hero">
+        <img
+          src="img/DaringUnicornLogo2.png"
+          alt="The Daring Unicorn Logo"
+          style={{width: '160px', marginBottom: '1rem'}}
+        />
         <h1>{siteConfig.title}</h1>
         <p>{siteConfig.tagline}</p>
         <div>

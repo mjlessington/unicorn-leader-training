@@ -3,8 +3,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'The Unicorn Leader',
-  tagline: 'A Leadership Training for IT Leaders — Combining Be The Unicorn & Dare To Lead',
+  title: 'The Daring Unicorn',
+  tagline: 'Cultivating Courageous and Exceptional Leadership in IT',
   favicon: 'img/favicon.ico',
 
   future: {
@@ -49,7 +49,11 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'The Unicorn Leader',
+        title: 'The Daring Unicorn',
+        logo: {
+          alt: 'The Daring Unicorn Logo',
+          src: 'img/DaringUnicornLogo2.png',
+        },
         items: [
           {
             type: 'docSidebar',
@@ -92,7 +96,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} The Unicorn Leader Training Program. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} The Daring Unicorn Training Program. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
