@@ -1,0 +1,145 @@
+:root {
+  --ifm-color-primary: #6C3FA0;
+  --ifm-color-primary-dark: #5E3690;
+  --ifm-color-primary-darker: #593388;
+  --ifm-color-primary-darkest: #4A2A70;
+  --ifm-color-primary-light: #7A4EB0;
+  --ifm-color-primary-lighter: #7F53B8;
+  --ifm-color-primary-lightest: #9470C7;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
+  --ifm-heading-font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #B088D4;
+  --ifm-color-primary-dark: #A074CC;
+  --ifm-color-primary-darker: #986AC8;
+  --ifm-color-primary-darkest: #8050BC;
+  --ifm-color-primary-light: #C09CDC;
+  --ifm-color-primary-lighter: #C8A6E0;
+  --ifm-color-primary-lightest: #D8C0E8;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Training-specific styles */
+.training-hero {
+  padding: 4rem 2rem;
+  text-align: center;
+  background: linear-gradient(135deg, #6C3FA0 0%, #2D1B4E 100%);
+  color: white;
+}
+
+.training-hero h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.training-hero p {
+  font-size: 1.3rem;
+  max-width: 700px;
+  margin: 0 auto 2rem;
+  opacity: 0.9;
+}
+
+.module-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
+  padding: 2rem 0;
+}
+
+.module-card {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 12px;
+  padding: 1.5rem;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.module-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 25px rgba(108, 63, 160, 0.15);
+}
+
+.module-card h3 {
+  color: var(--ifm-color-primary);
+  margin-bottom: 0.5rem;
+}
+
+/* Callout boxes for exercises */
+.exercise-box {
+  background: var(--ifm-color-primary-lightest);
+  border-left: 4px solid var(--ifm-color-primary);
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+  color: #1a1a2e;
+}
+
+[data-theme='dark'] .exercise-box {
+  background: rgba(108, 63, 160, 0.15);
+  color: var(--ifm-font-color-base);
+}
+
+.reflection-prompt {
+  background: #FFF8E1;
+  border-left: 4px solid #FFC107;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+}
+
+[data-theme='dark'] .reflection-prompt {
+  background: rgba(255, 193, 7, 0.1);
+}
+
+.key-concept {
+  background: #E8F5E9;
+  border-left: 4px solid #4CAF50;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+}
+
+[data-theme='dark'] .key-concept {
+  background: rgba(76, 175, 80, 0.1);
+}
+
+/* Assessment table styles */
+.assessment-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+
+.assessment-table th,
+.assessment-table td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid var(--ifm-color-emphasis-300);
+}
+
+.assessment-table th {
+  background: var(--ifm-color-primary);
+  color: white;
+}
+
+/* Timeline for action plans */
+.timeline-item {
+  border-left: 3px solid var(--ifm-color-primary);
+  padding: 0.5rem 0 1.5rem 1.5rem;
+  margin-left: 1rem;
+  position: relative;
+}
+
+.timeline-item::before {
+  content: '';
+  width: 12px;
+  height: 12px;
+  background: var(--ifm-color-primary);
+  border-radius: 50%;
+  position: absolute;
+  left: -7.5px;
+  top: 0.75rem;
+}
