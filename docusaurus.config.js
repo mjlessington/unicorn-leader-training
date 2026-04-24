@@ -52,7 +52,7 @@ const config = {
         title: 'The Daring Unicorn',
         logo: {
           alt: 'The Daring Unicorn Logo',
-          src: 'img/DaringUnicornLogo2.png',
+          src: 'img/DaringUni.png',
         },
         items: [
           {
